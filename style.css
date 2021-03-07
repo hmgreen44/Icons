@@ -1,0 +1,13 @@
+html, body {
+    height: 100vh;
+}
+
+.container {
+    background-color: #66BCC0;
+    justify-content: center;
+    
+}
+.icon{
+color: white;
+
+}
